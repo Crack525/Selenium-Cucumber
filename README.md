@@ -67,3 +67,7 @@
     - Allows for easy implementation of common behavior across all page objects
 
 These design patterns work together to create a robust, maintainable, and scalable test automation framework. They promote separation of concerns, improve code reusability, and make the framework more flexible for future enhancements.
+
+
+# Run
+   - Command: mvn clean test -Dbrowser=chrome
